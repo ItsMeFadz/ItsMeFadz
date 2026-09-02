@@ -23,8 +23,6 @@
   </picture>
 </p>
 
-> ⚠️ Gambar muncul otomatis setelah workflow `snake.yml` berhasil dijalankan minimal 1x.
-
 ---
 
 ### 🚀 About Me
