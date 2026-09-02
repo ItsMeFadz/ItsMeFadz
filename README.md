@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/github/followers/ItsMeFadz?label=Followers&style=social" alt="followers" />
 </p>
 
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -20,6 +22,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsMeFadz/ItsMeFadz/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+> ⚠️ Gambar di atas baru muncul setelah kamu menambahkan file workflow `snake.yml` (lihat instruksi di bawah) dan Action-nya berhasil jalan minimal 1x.
+
 ---
 
 ### 🚀 About Me
