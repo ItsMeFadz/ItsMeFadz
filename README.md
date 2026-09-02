@@ -13,7 +13,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Activity
 
 <p align="center">
   <picture>
