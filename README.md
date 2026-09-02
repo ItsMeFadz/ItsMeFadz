@@ -26,14 +26,14 @@
 ---
 
 ### 🚀 About Me
-- 💼 Currently working as **IT Staff** at **PT. BPR Arthia Sere**, membangun & memelihara sistem internal perbankan (Employee Attendance, SLIK Monitoring, Website Monitoring Dashboard, dll)
-- 🔭 Terbiasa kerja end-to-end: dari **Laravel / Laravel Lumen** backend, **React JS / Angular** frontend, sampai deploy ke **Linux VPS** pakai **Docker, Nginx & Cloudflare**
-- 🌱 Terus belajar seputar **DevOps, network administration (MikroTik)**, dan best practice keamanan sistem (ISO 27001:2022 ISMS Awareness)
-- 🤖 Suka membangun **expert system / decision support system** — dari diagnosis kanker payudara (89% akurasi), penyakit kulit kucing Persia (96% akurasi), sampai pemilihan starting line-up futsal (94% akurasi)
-- 👯 Terbuka untuk kolaborasi project web development, sistem akademik, atau sistem informasi berbasis Laravel/React
+- 💼 Currently working as **IT Staff** at **PT. BPR Arthia Sere**, building & maintaining internal banking systems (Employee Attendance, SLIK Monitoring, Website Monitoring Dashboard, and more)
+- 🔭 Comfortable working end-to-end: from **Laravel / Laravel Lumen** backend, **React JS / Angular** frontend, to deploying on **Linux VPS** with **Docker, Nginx & Cloudflare**
+- 🌱 Always learning more about **DevOps, network administration (MikroTik)**, and system security best practices (ISO 27001:2022 ISMS Awareness)
+- 🤖 Enjoy building **expert systems / decision support systems** — from breast cancer diagnosis (89% accuracy), Persian cat skin disease diagnosis (96% accuracy), to futsal line-up selection (94% accuracy)
+- 👯 Open to collaborating on web development projects, academic systems, or information systems built with Laravel/React
 - 📫 Reach me: **fadhilahruhiyah03@gmail.com**
 - 🌐 Portfolio: **[fadd.my.id](https://fadd.my.id)**
-- 📍 Based in Cirebon, Jawa Barat, Indonesia
+- 📍 Based in Cirebon, West Java, Indonesia
 
 ---
 
