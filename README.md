@@ -23,7 +23,6 @@
   </picture>
 </p>
 
-> ⚠️ Gambar di atas baru muncul setelah kamu menambahkan file workflow `snake.yml` (lihat instruksi di bawah) dan Action-nya berhasil jalan minimal 1x.
 
 ---
 
