@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/github/followers/ItsMeFadz?label=Followers&style=social" alt="followers" />
 </p>
 
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
